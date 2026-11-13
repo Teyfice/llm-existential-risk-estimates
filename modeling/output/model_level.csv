@@ -1,0 +1,242 @@
+model,developer,region,region_source,price_source,release_date,input_price,default_source,n_conditions,n_runs,probability,upper_bound,lower_bound,share_rogue_ai,share_ai_race,share_organizational_risks,share_malicious_use
+amazon/nova-2-lite-v1,amazon,US,figure script,OpenRouter listing,2025-12-02,0.3,median of conditions,2,10,0.09,0.245,0.018,1,0,0,0
+amazon/nova-lite-v1,amazon,US,figure script,OpenRouter listing,2024-12-05,0.06,default setting,1,5,0.06,0.16,0.018,0.4,0,0.6,0
+amazon/nova-micro-v1,amazon,US,figure script,OpenRouter listing,2024-12-05,0.035,default setting,1,5,0.0048,0.0114,0.00232,1,0,0,0
+amazon/nova-pro-v1,amazon,US,figure script,OpenRouter listing,2024-12-05,0.8,default setting,1,5,0.15,0.3,0.05,0.8,0,0.2,0
+anthropic/claude-fable-5,anthropic,US,figure script,OpenRouter listing,2026-06-09,10,default setting,5,5,0.054,0.25,0.006,0.8,0.2,0,0
+anthropic/claude-fable-5.1,anthropic,US,figure script,OpenRouter listing,2026-09-01,10,default setting,5,5,0.08,0.3,0.01,1,0,0,0
+anthropic/claude-haiku-4.5,anthropic,US,figure script,OpenRouter listing,2025-10-15,1,median of conditions,2,10,0.132,0.289,0.049,0.8,0.2,0,0
+anthropic/claude-haiku-5.5,anthropic,US,figure script,OpenRouter listing,2026-10-07,0.1,default setting,6,5,0.096,0.27,0.02,1,0,0,0
+anthropic/claude-opus-4.1,anthropic,US,figure script,OpenRouter listing,2025-08-05,15,median of conditions,2,10,0.137,0.355,0.027,1,0,0,0
+anthropic/claude-opus-4.5,anthropic,US,figure script,OpenRouter listing,2025-11-24,5,median of conditions,2,10,0.118,0.36,0.023,0.9,0.1,0,0
+anthropic/claude-opus-4.6,anthropic,US,figure script,OpenRouter listing,2026-02-04,5,default setting,5,5,0.1,0.28,0.024,1,0,0,0
+anthropic/claude-opus-4.7,anthropic,US,figure script,OpenRouter listing,2026-04-16,5,default setting,6,5,0.12,0.36,0.02,0,1,0,0
+anthropic/claude-opus-4.8,anthropic,US,figure script,OpenRouter listing,2026-05-27,5,default setting,6,5,0.12,0.4,0.02,0,1,0,0
+anthropic/claude-opus-5,anthropic,US,figure script,OpenRouter listing,2026-07-24,5,default setting,6,5,0.126,0.46,0.018,0.2,0.8,0,0
+anthropic/claude-opus-5.5,anthropic,US,figure script,OpenRouter listing,2026-09-22,4,default setting,5,5,0.08,0.37,0.01,0.6,0.4,0,0
+anthropic/claude-sonnet-4.5,anthropic,US,figure script,OpenRouter listing,2025-09-29,3,median of conditions,2,10,0.151,0.405,0.033,0.9,0.1,0,0
+anthropic/claude-sonnet-4.6,anthropic,US,figure script,OpenRouter listing,2026-02-17,3,default setting,5,5,0.076,0.26,0.016,1,0,0,0
+anthropic/claude-sonnet-5,anthropic,US,figure script,OpenRouter listing,2026-06-30,2,default setting,6,5,0.084,0.21,0.022,0.2,0.8,0,0
+anthropic/claude-sonnet-5.5,anthropic,US,figure script,OpenRouter listing,2026-09-28,2,default setting,5,5,0.08,0.29,0.01,0.8,0.2,0,0
+bytedance-seed/seed-1.6,bytedance-seed,China,figure script,OpenRouter listing,2025-12-23,0.25,median of conditions,2,10,0.096,0.262,0.02,0.4,0.6,0,0
+bytedance-seed/seed-1.6-flash,bytedance-seed,China,figure script,OpenRouter listing,2025-12-23,0.075,median of conditions,2,10,0.142,0.305,0.036,0.7,0,0.3,0
+bytedance-seed/seed-2-1-turbo,bytedance-seed,China,figure script,OpenRouter listing,2026-08-12,0.5,median of conditions,2,3,0.135,0.375,0.0225,0.5,0.5,0,0
+bytedance-seed/seed-2.0-lite,bytedance-seed,China,figure script,OpenRouter listing,2026-03-10,0.25,default setting,5,5,0.186,0.37,0.05,0.8,0.2,0,0
+bytedance-seed/seed-2.0-mini,bytedance-seed,China,figure script,OpenRouter listing,2026-02-26,0.1,default setting,5,5,0.054,0.14,0.0126,1,0,0,0
+cohere/command-a,cohere,Other,figure script,OpenRouter listing,2025-03-13,2.5,default setting,1,5,0.15,0.3,0.05,1,0,0,0
+cohere/command-a-plus,cohere,Other,figure script,OpenRouter listing,2026-09-22,0.3,median of conditions,2,10,0.138,0.295,0.053,0.9,0.1,0,0
+cohere/command-r-08-2024,cohere,Other,figure script,OpenRouter listing,2024-08-30,0.15,default setting,1,5,0.010026,0.02062,0.002,1,0,0,0
+cohere/command-r-plus-08-2024,cohere,Other,figure script,OpenRouter listing,2024-08-30,2.5,default setting,1,5,0.07,0.13,0.018,1,0,0,0
+cohere/command-r7b-12-2024,cohere,Other,figure script,OpenRouter listing,2024-12-14,0.0375,default setting,1,5,0.038,0.054,0.022,0.4,0.2,0.4,0
+deepseek/deepseek-chat,deepseek,China,figure script,OpenRouter listing,2024-12-26,0.2574,default setting,1,5,0.23,0.45,0.09,1,0,0,0
+deepseek/deepseek-chat-v3-0324,deepseek,China,figure script,OpenRouter listing,2025-03-24,0.29,default setting,1,5,0.16,0.32,0.05,1,0,0,0
+deepseek/deepseek-chat-v3.1,deepseek,China,figure script,OpenRouter listing,2025-08-21,0.25,median of conditions,2,10,0.165,0.35,0.056,1,0,0,0
+deepseek/deepseek-r1-0528,deepseek,China,figure script,OpenRouter listing,2025-05-28,0.5,default setting,1,5,0.15,0.36,0.02,1,0,0,0
+deepseek/deepseek-v3.1-terminus,deepseek,China,figure script,OpenRouter listing,2025-09-22,0.27,median of conditions,1,5,0.176,0.41,0.054,1,0,0,0
+deepseek/deepseek-v3.2,deepseek,China,figure script,OpenRouter listing,2025-12-01,0.26,default setting,2,5,0.07,0.224,0.013,1,0,0,0
+deepseek/deepseek-v3.2-exp,deepseek,China,figure script,OpenRouter listing,2025-09-29,0.27,median of conditions,2,10,0.155,0.395,0.039,1,0,0,0
+deepseek/deepseek-v4-flash,deepseek,China,figure script,OpenRouter listing,2026-04-24,0.091,default setting,3,5,0.056,0.21,0.012,1,0,0,0
+deepseek/deepseek-v4-flash-0731,deepseek,China,figure script,OpenRouter listing,2026-07-31,0.0527,default setting,4,5,0.074,0.234,0.016,1,0,0,0
+deepseek/deepseek-v4-flash-vision-exp,deepseek,China,figure script,OpenRouter listing,2026-08-21,0.2156,default setting,4,5,0.1,0.31,0.02,1,0,0,0
+deepseek/deepseek-v4-pro,deepseek,China,figure script,OpenRouter listing,2026-04-24,1.6,default setting,3,5,0.1,0.36,0.018,1,0,0,0
+deepseek/deepseek-v4-pro-0813,deepseek,China,figure script,OpenRouter listing,2026-08-12,0.103,default setting,4,5,0.086,0.264,0.02,1,0,0,0
+deepseek/deepseek-v4.1-flash,deepseek,China,figure script,OpenRouter listing,2026-09-10,0.045,default setting,4,5,0.1,0.31,0.022,1,0,0,0
+deepseek/deepseek-v4.1-flash-1017,deepseek,China,figure script,OpenRouter listing,2026-10-17,0.15,default setting,4,5,0.08,0.26,0.02,1,0,0,0
+dots-studio/dots-3-note-preview:free,dots-studio,China,figure script,"free on OpenRouter, no paid version: set to 0 (floored at $0.001)",2026-08-14,0,median of conditions,1,4,0.095,0.2325,0.0275,1,0,0,0
+fireworks/ember-1,fireworks,US,figure script,OpenRouter listing,2026-09-24,3,default setting,4,5,0.072,0.28,0.01,1,0,0,0
+google/gemini-2.5-flash,google,US,figure script,OpenRouter listing,2025-06-17,0.3,median of conditions,2,10,0.135,0.297,0.052,1,0,0,0
+google/gemini-2.5-flash-lite,google,US,figure script,OpenRouter listing,2025-07-22,0.1,median of conditions,2,10,0.085,0.26,0.0176,0.9,0.1,0,0
+google/gemini-2.5-pro,google,US,figure script,OpenRouter listing,2025-06-17,1.25,default setting,1,5,0.1,0.36,0.014,0.6,0.4,0,0
+google/gemini-2.5-pro-preview,google,US,figure script,OpenRouter listing,2025-06-05,1.25,default setting,1,5,0.11,0.4,0.018,1,0,0,0
+google/gemini-3-flash-preview,google,US,figure script,OpenRouter listing,2025-12-17,0.5,default setting,5,5,0.07,0.25,0.009,1,0,0,0
+google/gemini-3.1-flash-lite,google,US,figure script,OpenRouter listing,2026-05-07,0.25,default setting,5,5,0.11,0.32,0.0142,1,0,0,0
+google/gemini-3.1-flash-lite-preview,google,US,figure script,OpenRouter listing,2026-03-03,0.25,default setting,5,5,0.09,0.3,0.0094,1,0,0,0
+google/gemini-3.1-pro-preview,google,US,figure script,OpenRouter listing,2026-02-19,2,default setting,3,5,0.07,0.23,0.01,0.6,0.4,0,0
+google/gemini-3.1-pro-preview-customtools,google,US,figure script,OpenRouter listing,2026-02-25,2,default setting,3,5,0.1,0.28,0.012,0.6,0.4,0,0
+google/gemini-3.5-flash,google,US,figure script,OpenRouter listing,2026-05-19,1.5,default setting,4,5,0.104,0.4,0.012,0.4,0.6,0,0
+google/gemini-3.5-flash-lite,google,US,figure script,OpenRouter listing,2026-07-21,0.3,default setting,4,5,0.15,0.44,0.028,1,0,0,0
+google/gemini-3.6-flash,google,US,figure script,OpenRouter listing,2026-07-21,0.75,default setting,4,5,0.096,0.3,0.016,0.8,0.2,0,0
+google/gemini-3.7-flash,google,US,figure script,OpenRouter listing,2026-08-13,0.75,default setting,3,5,0.106,0.32,0.0182,0,1,0,0
+google/gemini-3.8-flash,google,US,figure script,OpenRouter listing,2026-09-02,0.825,default setting,3,5,0.088,0.266,0.014,0,1,0,0
+google/gemini-4-argon,google,US,figure script,OpenRouter listing,2026-10-13,2,default setting,3,5,0.08,0.32,0.008,1,0,0,0
+google/gemma-2-27b-it,google,US,figure script,OpenRouter listing,2024-07-13,0.65,default setting,1,4,0.075,0.14,0.025,0.75,0.25,0,0
+google/gemma-3-12b-it,google,US,figure script,OpenRouter listing,2025-03-13,0.05,default setting,1,5,0.098,0.21,0.034,1,0,0,0
+google/gemma-3-27b-it,google,US,figure script,OpenRouter listing,2025-03-12,0.08,default setting,1,5,0.035,0.095,0.009,1,0,0,0
+google/gemma-3-4b-it,google,US,figure script,OpenRouter listing,2025-03-13,0.05,default setting,1,5,0.0774,0.138,0.034,1,0,0,0
+google/gemma-4-26b-a4b-it,google,US,figure script,OpenRouter listing,2026-04-03,0.028,default setting,2,5,0.09,0.23,0.026,1,0,0,0
+google/gemma-4-31b-it,google,US,figure script,OpenRouter listing,2026-04-02,0.2,default setting,2,5,0.08,0.3,0.01,1,0,0,0
+ibm-granite/granite-4.2-8b,ibm-granite,US,figure script,OpenRouter listing,2026-08-31,0.06,default setting,3,5,0.027,0.083,0.0062,1,0,0,0
+inception/mercury-2,inception,US,figure script,OpenRouter listing,2026-03-04,0.25,default setting,4,5,0.04046,0.1056,0.0107,0.4,0.6,0,0
+inception/mercury-2.5,inception,US,figure script,OpenRouter listing,2026-09-08,0.04,default setting,4,5,0.05,0.2,0.01,0.8,0.2,0,0
+inception/mercury-3,inception,US,figure script,OpenRouter listing,2026-10-16,0.1,default setting,4,5,0.08,0.28,0.016,1,0,0,0
+inclusionai/ling-3.0-flash,inclusionai,China,figure script,OpenRouter listing,2026-07-23,0.021,default setting,2,5,0.124,0.31,0.034,1,0,0,0
+inclusionai/ling-3.0-flash-vl,inclusionai,China,figure script,OpenRouter listing,2026-09-10,0.06,default setting,2,2,0.24,0.45,0.075,0.5,0.5,0,0
+inclusionai/ling-3.0-tiny,inclusionai,China,figure script,OpenRouter listing,2026-08-06,0.015,default setting,2,5,0.021,0.07,0.0046,0.8,0.2,0,0
+inclusionai/ling-3.1-flash,inclusionai,China,figure script,OpenRouter listing,2026-10-02,0.075,default setting,2,5,0.136,0.39,0.03,0.4,0.6,0,0
+liquid/lfm-2.5-24b-a2b,liquid,US,figure script,OpenRouter listing,2026-10-13,0.05,default setting,1,5,0.076,0.18,0.027,0.6,0.4,0,0
+meituan/longcat-2.0,meituan,China,figure script,OpenRouter listing,2026-07-20,0.3,default setting,2,5,0.076,0.226,0.016,0.8,0.2,0,0
+meta-llama/llama-3.1-70b-instruct,meta,US,figure script,OpenRouter listing,2024-07-23,0.72,default setting,1,5,0.222,0.39,0.09,0.8,0.2,0,0
+meta-llama/llama-3.1-8b-instruct,meta,US,figure script,OpenRouter listing,2024-07-23,0.05,default setting,1,5,0.01082,0.03178,0.00148,1,0,0,0
+meta-llama/llama-3.2-1b-instruct,meta,US,figure script,OpenRouter listing,2024-09-25,0.027,default setting,1,4,0.425,0.325,0.055,0.75,0,0,0.25
+meta-llama/llama-3.3-70b-instruct,meta,US,figure script,OpenRouter listing,2024-12-06,0.2,default setting,1,5,0.027,0.062,0.0084,1,0,0,0
+meta-llama/llama-4-maverick,meta,US,figure script,OpenRouter listing,2025-04-05,0.35,default setting,1,5,0.0326,0.12,0.007,1,0,0,0
+meta-llama/llama-4-scout,meta,US,figure script,OpenRouter listing,2025-04-05,0.1,default setting,1,5,0.0224,0.104,0.00406,1,0,0,0
+meta/muse-glimmer-30b,meta,US,figure script,OpenRouter listing,2026-08-09,0.3,default setting,4,5,0.082,0.27,0.012,0.2,0.8,0,0
+meta/muse-spark-1.1,meta,US,figure script,OpenRouter listing,2026-07-16,1.25,default setting,5,5,0.102,0.36,0.014,1,0,0,0
+meta/muse-spark-1.2,meta,US,figure script,OpenRouter listing,2026-08-05,1.25,default setting,5,5,0.096,0.316,0.019,1,0,0,0
+meta/muse-spark-1.3,meta,US,figure script,OpenRouter listing,2026-09-02,1.25,default setting,6,5,0.062,0.23,0.009,1,0,0,0
+meta/muse-wonder,meta,US,figure script,OpenRouter listing,2026-10-12,4,default setting,6,5,0.148,0.398,0.032,1,0,0,0
+microsoft/phi-4,microsoft,US,figure script,OpenRouter listing,2025-01-10,0.07,default setting,1,5,0.02,0.05,0.0052,1,0,0,0
+minimax/minimax-m1,minimax,China,figure script,OpenRouter listing,2025-06-17,0.55,median of conditions,2,10,0.061,0.205,0.0091,1,0,0,0
+minimax/minimax-m2.5,minimax,China,figure script,OpenRouter listing,2026-02-12,0.27,default setting,1,5,0.074,0.22,0.0092,0.8,0.2,0,0
+minimax/minimax-m2.7,minimax,China,figure script,OpenRouter listing,2026-03-18,0.21,default setting,1,5,0.06,0.22,0.011,1,0,0,0
+minimax/minimax-m3,minimax,China,figure script,OpenRouter listing,2026-05-31,0.3,median of conditions,2,10,0.072,0.234,0.0139,0.8,0.2,0,0
+minimax/minimax-m3.1-flash,minimax,China,figure script,OpenRouter listing,2026-10-19,0.075,default setting,5,5,0.092,0.274,0.019,0.8,0.2,0,0
+mistralai/ministral-14b-2512,mistralai,Other,figure script,OpenRouter listing,2025-12-02,0.2,default setting,1,5,0.054,0.21,0.01,1,0,0,0
+mistralai/ministral-3b-2512,mistralai,Other,figure script,OpenRouter listing,2025-12-02,0.1,default setting,1,5,1e-04,0.001,1e-05,0.8,0.2,0,0
+mistralai/ministral-8b-2512,mistralai,Other,figure script,OpenRouter listing,2025-12-02,0.15,default setting,1,5,0.15,0.45,0.02,0.6,0,0.4,0
+mistralai/mistral-large-2407,mistralai,Other,figure script,OpenRouter listing,2024-11-19,2,default setting,1,5,0.15,0.33,0.04,1,0,0,0
+mistralai/mistral-large-2512,mistralai,Other,figure script,OpenRouter listing,2025-12-01,0.5,default setting,1,5,0.15,0.31,0.046,1,0,0,0
+mistralai/mistral-large-4-0,mistralai,Other,figure script,OpenRouter listing,2026-10-06,0.7,default setting,1,5,0.156,0.47,0.03,1,0,0,0
+mistralai/mistral-medium-3,mistralai,Other,figure script,OpenRouter listing,2025-05-07,0.4,default setting,1,5,0.11,0.3,0.02,1,0,0,0
+mistralai/mistral-medium-3-5,mistralai,Other,figure script,OpenRouter listing,2026-04-30,1.5,default setting,2,5,0.14,0.37,0.036,1,0,0,0
+mistralai/mistral-medium-3.1,mistralai,Other,figure script,OpenRouter listing,2025-08-13,0.4,default setting,1,5,0.11,0.22,0.05,1,0,0,0
+mistralai/mistral-nemo,mistralai,Other,figure script,OpenRouter listing,2024-07-19,0.029,default setting,1,5,0.15,0.28,0.05,0.2,0.2,0.6,0
+mistralai/mistral-saba,mistralai,Other,figure script,OpenRouter listing,2025-02-17,0.2,default setting,1,5,0.09,0.22,0.026,1,0,0,0
+mistralai/mistral-small-24b-instruct-2501,mistralai,Other,figure script,OpenRouter listing,2025-01-30,0.05,default setting,1,5,0.05,0.18,0.01,1,0,0,0
+mistralai/mistral-small-2603,mistralai,Other,figure script,OpenRouter listing,2026-03-16,0.15,default setting,2,5,0.104,0.38,0.022,1,0,0,0
+mistralai/mistral-small-3.1-24b-instruct,mistralai,Other,figure script,OpenRouter listing,2025-03-17,0.351,default setting,1,5,0.15,0.3,0.05,1,0,0,0
+mistralai/mistral-small-3.2-24b-instruct,mistralai,Other,figure script,OpenRouter listing,2025-06-20,0.075,default setting,1,5,0.11,0.28,0.034,1,0,0,0
+mistralai/mixtral-8x22b-instruct,mistralai,Other,figure script,OpenRouter listing,2024-04-17,2,default setting,1,5,0.13,0.27,0.042,1,0,0,0
+mistralai/voxtral-small-24b-2507,mistralai,Other,figure script,OpenRouter listing,2025-10-30,0.1,default setting,1,5,0.15,0.3,0.05,1,0,0,0
+moonshotai/kimi-k2,moonshotai,China,figure script,OpenRouter listing,2025-07-11,0.57,default setting,1,5,0.14,0.35,0.042,0.8,0.2,0,0
+moonshotai/kimi-k2-0905,moonshotai,China,figure script,OpenRouter listing,2025-09-04,0.6,default setting,1,5,0.15,0.35,0.05,1,0,0,0
+moonshotai/kimi-k2-thinking,moonshotai,China,figure script,OpenRouter listing,2025-11-06,0.6,default setting,1,5,0.12,0.39,0.016,0.8,0.2,0,0
+moonshotai/kimi-k2.5,moonshotai,China,figure script,OpenRouter listing,2026-01-27,0.5,default setting,2,5,0.124,0.43,0.018,1,0,0,0
+moonshotai/kimi-k2.6,moonshotai,China,figure script,OpenRouter listing,2026-04-20,0.65,default setting,2,5,0.13,0.41,0.024,0.8,0.2,0,0
+moonshotai/kimi-k3,moonshotai,China,figure script,OpenRouter listing,2026-07-16,0.192,default setting,4,5,0.066,0.28,0.008,1,0,0,0
+moonshotai/kimi-k3.1-pro,moonshotai,China,figure script,OpenRouter listing,2026-10-23,2,default setting,4,5,0.09,0.31,0.013,1,0,0,0
+nousresearch/hermes-4-405b,nousresearch,US,figure script,OpenRouter listing,2025-08-26,1,median of conditions,2,10,0.116,0.275,0.038,1,0,0,0
+nvidia/nemotron-3-nano-30b-a3b,nvidia,US,figure script,OpenRouter listing,2025-12-14,0.06,median of conditions,2,10,0.07202,0.10491,0.04508,1,0,0,0
+nvidia/nemotron-3-super-120b-a12b,nvidia,US,figure script,OpenRouter listing,2026-03-11,0.3,default setting,2,5,0.07,0.194,0.016,1,0,0,0
+nvidia/nemotron-3-ultra-550b-a55b,nvidia,US,figure script,OpenRouter listing,2026-06-04,0.6,default setting,3,5,0.098,0.33,0.0112,1,0,0,0
+nvidia/nemotron-3.5-lightning,nvidia,US,figure script,OpenRouter listing,2026-08-11,0.07,median of conditions,2,10,0.1045,0.215,0.0356,1,0,0,0
+nvidia/nemotron-3.5-super-vl,nvidia,US,figure script,OpenRouter listing,2026-10-15,0.15,median of conditions,2,10,0.0615,0.24,0.0095,0.9,0.1,0,0
+openai/gpt-3.5-turbo-0613,openai,US,figure script,OpenRouter listing,2024-01-25,1,default setting,1,5,0.106,0.23,0.038,1,0,0,0
+openai/gpt-3.5-turbo-16k,openai,US,figure script,OpenRouter listing,2023-08-28,3,default setting,1,5,0.102,0.228,0.034,1,0,0,0
+openai/gpt-4,openai,US,figure script,OpenRouter listing,2023-05-28,30,default setting,1,5,0.16,0.35,0.046,1,0,0,0
+openai/gpt-4.1,openai,US,figure script,OpenRouter listing,2025-04-14,2,default setting,1,5,0.096,0.276,0.02,1,0,0,0
+openai/gpt-4.1-mini,openai,US,figure script,OpenRouter listing,2025-04-14,0.4,default setting,1,5,0.126,0.27,0.05,1,0,0,0
+openai/gpt-4.1-nano,openai,US,figure script,OpenRouter listing,2025-04-14,0.1,default setting,1,5,0.0067,0.0154,0.00166,1,0,0,0
+openai/gpt-4o-2024-05-13,openai,US,figure script,OpenRouter listing,2024-05-13,5,default setting,1,5,0.146,0.31,0.048,1,0,0,0
+openai/gpt-4o-2024-08-06,openai,US,figure script,OpenRouter listing,2024-08-06,2.5,default setting,1,5,0.142,0.33,0.046,1,0,0,0
+openai/gpt-4o-2024-11-20,openai,US,figure script,OpenRouter listing,2024-11-20,2.5,default setting,1,5,0.162,0.35,0.046,1,0,0,0
+openai/gpt-4o-mini-2024-07-18,openai,US,figure script,OpenRouter listing,2024-07-18,0.15,default setting,1,5,0.102,0.23,0.0322,0.4,0.6,0,0
+openai/gpt-5,openai,US,figure script,OpenRouter listing,2025-08-07,1.25,default setting,4,5,0.138,0.346,0.038,1,0,0,0
+openai/gpt-5-mini,openai,US,figure script,OpenRouter listing,2025-08-07,0.25,default setting,4,5,0.088,0.27,0.014,1,0,0,0
+openai/gpt-5-nano,openai,US,figure script,OpenRouter listing,2025-08-07,0.05,default setting,4,5,0.0194,0.052,0.0056,0.8,0.2,0,0
+openai/gpt-5-pro,openai,US,figure script,OpenRouter listing,2025-10-06,15,default setting,1,5,0.132,0.35,0.034,1,0,0,0
+openai/gpt-5.1,openai,US,figure script,OpenRouter listing,2025-11-13,1.25,default setting,4,5,0.142,0.45,0.02,1,0,0,0
+openai/gpt-5.2,openai,US,figure script,OpenRouter listing,2025-12-10,1.75,default setting,5,5,0.102,0.3,0.022,1,0,0,0
+openai/gpt-5.2-pro,openai,US,figure script,OpenRouter listing,2025-12-10,21,default setting,3,5,0.108,0.3,0.02,1,0,0,0
+openai/gpt-5.4,openai,US,figure script,OpenRouter listing,2026-03-05,2.5,default setting,5,5,0.12,0.35,0.02,1,0,0,0
+openai/gpt-5.4-mini,openai,US,figure script,OpenRouter listing,2026-03-17,0.75,default setting,5,5,0.108,0.33,0.021,1,0,0,0
+openai/gpt-5.4-nano,openai,US,figure script,OpenRouter listing,2026-03-17,0.2,default setting,5,5,0.0366,0.085,0.01,1,0,0,0
+openai/gpt-5.4-pro,openai,US,figure script,OpenRouter listing,2026-03-05,30,default setting,3,5,0.13,0.38,0.018,1,0,0,0
+openai/gpt-5.5,openai,US,figure script,OpenRouter listing,2026-04-24,5,default setting,5,5,0.088,0.27,0.013,0.6,0.4,0,0
+openai/gpt-5.5-pro,openai,US,figure script,OpenRouter listing,2026-04-24,30,default setting,3,5,0.084,0.28,0.012,0.8,0.2,0,0
+openai/gpt-5.6-luna,openai,US,figure script,OpenRouter listing,2026-07-09,0.2,default setting,6,5,0.148,0.41,0.03,1,0,0,0
+openai/gpt-5.6-luna-pro,openai,US,figure script,OpenRouter listing,2026-07-09,0.2,default setting,6,5,0.142,0.41,0.028,1,0,0,0
+openai/gpt-5.6-sol,openai,US,figure script,OpenRouter listing,2026-07-09,4,default setting,6,5,0.11,0.34,0.02,1,0,0,0
+openai/gpt-5.6-sol-pro,openai,US,figure script,OpenRouter listing,2026-07-09,4,default setting,6,5,0.112,0.35,0.02,1,0,0,0
+openai/gpt-5.6-terra,openai,US,figure script,OpenRouter listing,2026-07-09,2,default setting,6,5,0.13,0.38,0.022,1,0,0,0
+openai/gpt-5.6-terra-pro,openai,US,figure script,OpenRouter listing,2026-07-09,2,default setting,6,5,0.138,0.42,0.024,1,0,0,0
+openai/gpt-6-astra,openai,US,figure script,OpenRouter listing,2026-09-04,10,default setting,5,5,0.1,0.5,0.01,0.8,0.2,0,0
+openai/gpt-6-astra-pro,openai,US,figure script,OpenRouter listing,2026-09-04,10,default setting,5,5,0.1,0.5,0.01,0.8,0.2,0,0
+openai/gpt-6-luna,openai,US,figure script,OpenRouter listing,2026-09-22,0.1,default setting,6,5,0.134,0.41,0.022,1,0,0,0
+openai/gpt-6-luna-pro,openai,US,figure script,OpenRouter listing,2026-09-22,0.1,default setting,6,5,0.15,0.43,0.024,1,0,0,0
+openai/gpt-6-sol,openai,US,figure script,OpenRouter listing,2026-09-22,2,default setting,6,5,0.1,0.36,0.01,1,0,0,0
+openai/gpt-6-sol-pro,openai,US,figure script,OpenRouter listing,2026-09-22,2,default setting,6,5,0.104,0.35,0.012,1,0,0,0
+openai/gpt-6.1-sol,openai,US,figure script,OpenRouter listing,2026-09-29,2,default setting,5,5,0.12,0.48,0.014,1,0,0,0
+openai/gpt-6.1-sol-pro,openai,US,figure script,OpenRouter listing,2026-09-29,2,default setting,5,5,0.13,0.49,0.016,1,0,0,0
+openai/gpt-6.1-terra,openai,US,figure script,OpenRouter listing,2026-10-26,1,default setting,6,5,0.056,0.23,0.005,1,0,0,0
+openai/gpt-6.1-terra-pro,openai,US,figure script,OpenRouter listing,2026-10-26,1,default setting,5,5,0.07,0.3,0.007,1,0,0,0
+openai/gpt-oss-120b,openai,US,figure script,OpenRouter listing,2025-08-05,0.15,default setting,3,5,0.0563,0.12994,0.01724,1,0,0,0
+openai/gpt-oss-20b,openai,US,figure script,OpenRouter listing,2025-08-05,0.03,default setting,3,5,0.073,0.182,0.017,0.4,0.6,0,0
+openai/o3,openai,US,figure script,OpenRouter listing,2025-04-16,2,default setting,1,5,0.158,0.38,0.036,1,0,0,0
+openai/o3-pro,openai,US,figure script,OpenRouter listing,2025-06-10,20,default setting,1,5,0.156,0.39,0.048,1,0,0,0
+prism-ml/ternary-bonsai-2-27b,prism-ml,US,"added automatically (web search, high confidence; region_additions.csv)",OpenRouter listing,2026-09-18,0.075,default setting,3,5,0.178,0.506,0.04,0.8,0,0,0.2
+prism-ml/ternary-bonsai-2-9b,prism-ml,US,"added automatically (web search, high confidence; region_additions.csv)",OpenRouter listing,2026-10-16,0.08,default setting,2,5,0.078,0.204,0.022,1,0,0,0
+qwen/qwen-2.5-72b-instruct,qwen,China,figure script,OpenRouter listing,2024-09-19,0.36,default setting,1,4,0.125,0.275,0.04,1,0,0,0
+qwen/qwen-2.5-7b-instruct,qwen,China,figure script,OpenRouter listing,2024-10-16,0.1,default setting,1,5,0.05,0.1,0.01,0.6,0.2,0.2,0
+qwen/qwen-plus,qwen,China,figure script,OpenRouter listing,2025-02-01,0.26,default setting,1,5,0.04,0.154,0.006,1,0,0,0
+qwen/qwen2.5-vl-72b-instruct,qwen,China,figure script,OpenRouter listing,2025-02-01,0.8,default setting,1,5,0.09,0.21,0.026,1,0,0,0
+qwen/qwen3-14b,qwen,China,figure script,OpenRouter listing,2025-04-28,0.12,median of conditions,2,10,0.049,0.13,0.0148,0.8,0,0.2,0
+qwen/qwen3-235b-a22b-2507,qwen,China,figure script,OpenRouter listing,2025-07-21,0.14,default setting,1,5,0.08,0.25,0.02,1,0,0,0
+qwen/qwen3-235b-a22b-thinking-2507,qwen,China,figure script,OpenRouter listing,2025-07-25,0.45,default setting,1,5,0.08,0.29,0.009,1,0,0,0
+qwen/qwen3-30b-a3b,qwen,China,figure script,OpenRouter listing,2025-04-28,0.12,default setting,2,5,0.07,0.14,0.028,1,0,0,0
+qwen/qwen3-30b-a3b-instruct-2507,qwen,China,figure script,OpenRouter listing,2025-07-29,0.1,default setting,1,5,0.15,0.29,0.056,1,0,0,0
+qwen/qwen3-32b,qwen,China,figure script,OpenRouter listing,2025-04-28,0.08,median of conditions,2,10,0.12,0.27,0.038,1,0,0,0
+qwen/qwen3-next-80b-a3b-instruct,qwen,China,figure script,OpenRouter listing,2025-09-11,0.09,default setting,1,5,0.11,0.29,0.026,1,0,0,0
+qwen/qwen3-vl-235b-a22b-instruct,qwen,China,figure script,OpenRouter listing,2025-09-23,0.21,default setting,1,5,0.08,0.24,0.022,1,0,0,0
+qwen/qwen3-vl-30b-a3b-instruct,qwen,China,figure script,OpenRouter listing,2025-10-06,0.15,default setting,1,5,0.15,0.29,0.056,1,0,0,0
+qwen/qwen3-vl-30b-a3b-thinking,qwen,China,figure script,OpenRouter listing,2025-10-06,0.29,default setting,1,5,0.068,0.19,0.016,1,0,0,0
+qwen/qwen3-vl-8b-instruct,qwen,China,figure script,OpenRouter listing,2025-10-14,0.25,default setting,1,5,0.15,0.3,0.05,1,0,0,0
+qwen/qwen3.5-122b-a10b,qwen,China,figure script,OpenRouter listing,2026-02-25,0.26,median of conditions,2,10,0.057,0.23,0.0087,1,0,0,0
+qwen/qwen3.5-27b,qwen,China,figure script,OpenRouter listing,2026-02-25,0.26,median of conditions,2,10,0.107,0.33,0.02,1,0,0,0
+qwen/qwen3.5-35b-a3b,qwen,China,figure script,OpenRouter listing,2026-02-25,0.14,median of conditions,2,10,0.073,0.278,0.0136,1,0,0,0
+qwen/qwen3.5-397b-a17b,qwen,China,figure script,OpenRouter listing,2026-02-16,0.5,median of conditions,2,10,0.035,0.13,0.0055,1,0,0,0
+qwen/qwen3.5-9b,qwen,China,figure script,OpenRouter listing,2026-03-10,0.17,median of conditions,2,10,0.0582001,0.21701,0.00652,0.7,0.1,0.2,0
+qwen/qwen3.5-flash-02-23,qwen,China,figure script,OpenRouter listing,2026-02-25,0.065,median of conditions,2,10,0.092,0.293,0.019,1,0,0,0
+qwen/qwen3.5-plus-02-15,qwen,China,figure script,OpenRouter listing,2026-02-16,0.26,median of conditions,2,10,0.084,0.26,0.021,0.9,0,0.1,0
+qwen/qwen3.5-plus-20260420,qwen,China,figure script,OpenRouter listing,2026-04-27,0.3,median of conditions,2,10,0.072,0.2,0.019,1,0,0,0
+qwen/qwen3.6-27b,qwen,China,figure script,OpenRouter listing,2026-04-27,0.45,default setting,2,5,0.1,0.28,0.018,1,0,0,0
+qwen/qwen3.6-35b-a3b,qwen,China,figure script,OpenRouter listing,2026-04-27,0.1,default setting,2,5,0.084,0.34,0.011,0.8,0.2,0,0
+qwen/qwen3.6-flash,qwen,China,figure script,OpenRouter listing,2026-04-27,0.1875,median of conditions,2,10,0.087,0.27,0.021,0.8,0.1,0.1,0
+qwen/qwen3.6-plus,qwen,China,figure script,OpenRouter listing,2026-04-02,0.325,median of conditions,2,10,0.11,0.3,0.029,0.8,0.1,0.1,0
+qwen/qwen3.7-flash,qwen,China,figure script,OpenRouter listing,2026-07-27,0.03,default setting,2,5,0.126,0.296,0.0282,1,0,0,0
+qwen/qwen3.7-max,qwen,China,figure script,OpenRouter listing,2026-05-21,1.475,default setting,2,5,0.068,0.246,0.014,1,0,0,0
+qwen/qwen3.7-plus,qwen,China,figure script,OpenRouter listing,2026-06-03,0.32,default setting,2,5,0.07,0.21,0.016,1,0,0,0
+qwen/qwen3.8-2.4t-a95b,qwen,China,figure script,OpenRouter listing,2026-08-12,2,default setting,3,5,0.068,0.29,0.0094,0.8,0.2,0,0
+qwen/qwen3.8-27b,qwen,China,figure script,OpenRouter listing,2026-08-14,0.15,default setting,4,5,0.102,0.39,0.0182,0.6,0.4,0,0
+qwen/qwen3.8-flash,qwen,China,figure script,OpenRouter listing,2026-08-26,0.15,default setting,2,5,0.104,0.27,0.023,1,0,0,0
+qwen/qwen3.8-max-0902,qwen,China,figure script,OpenRouter listing,2026-09-03,2,default setting,5,5,0.056,0.234,0.0066,0.8,0.2,0,0
+qwen/qwen3.8-omni-flash,qwen,China,figure script,OpenRouter listing,2026-09-21,0.15,default setting,2,5,0.062,0.23,0.008,0.8,0.2,0,0
+reflection/beam-1.0-501b-a23b,reflection,US,figure script,OpenRouter listing,2026-10-16,0.25,default setting,5,5,0.088,0.28,0.018,1,0,0,0
+stepfun/step-3.5-flash,stepfun,China,figure script,OpenRouter listing,2026-01-29,0.1,default setting,1,5,0.096,0.24,0.027,1,0,0,0
+stepfun/step-3.7-flash,stepfun,China,figure script,OpenRouter listing,2026-05-28,0.2,default setting,3,5,0.112,0.298,0.024,0.8,0.2,0,0
+stepfun/step-5-preview,stepfun,China,figure script,OpenRouter listing,2026-10-08,1,default setting,3,5,0.06,0.26,0.01,1,0,0,0
+tencent/hunyuan-a13b-instruct,tencent,China,figure script,OpenRouter listing,2025-07-08,0.14,median of conditions,2,10,0.1235,0.2615,0.048,0.9,0,0.1,0
+tencent/hy3,tencent,China,figure script,OpenRouter listing,2026-07-06,0.132,default setting,3,5,0.118,0.35,0.03,1,0,0,0
+tencent/hy3-preview,tencent,China,figure script,OpenRouter listing,2026-04-22,0.18,default setting,3,5,0.118,0.35,0.028,1,0,0,0
+tencent/hy4,tencent,China,figure script,OpenRouter listing,2026-11-04,0.417,default setting,3,5,0.104,0.5,0.008,1,0,0,0
+tencent/hy4-preview,tencent,China,figure script,OpenRouter listing,2026-08-28,0.834,default setting,3,5,0.1,0.45,0.009,1,0,0,0
+thinkingmachines/inkling,thinkingmachines,US,figure script,OpenRouter listing,2026-07-17,1,default setting,6,5,0.126,0.314,0.048,1,0,0,0
+thinkingmachines/inkling-small,thinkingmachines,US,figure script,OpenRouter listing,2026-07-30,0.45,default setting,6,5,0.136,0.346,0.034,0.4,0.6,0,0
+upstage/solar-mini4,upstage,Other,figure script,OpenRouter listing,2026-09-23,0.05,default setting,7,5,0.098,0.3,0.009,0.4,0.6,0,0
+upstage/solar-pro4,upstage,Other,figure script,OpenRouter listing,2026-08-10,0.15,default setting,7,5,0.046,0.17,0.0058,1,0,0,0
+writer/palmyra-x5,writer,US,figure script,OpenRouter listing,2026-01-21,0.6,default setting,1,5,0.08,0.25,0.02,1,0,0,0
+x-ai/grok-4.20,x-ai,US,figure script,OpenRouter listing,2026-03-31,1.25,default setting,2,5,0.12,0.27,0.044,1,0,0,0
+x-ai/grok-4.3,x-ai,US,figure script,OpenRouter listing,2026-04-30,1.25,default setting,4,5,0.15,0.31,0.044,1,0,0,0
+x-ai/grok-4.5,x-ai,US,figure script,OpenRouter listing,2026-07-08,2,default setting,3,5,0.144,0.36,0.03,1,0,0,0
+x-ai/grok-4.6,x-ai,US,figure script,OpenRouter listing,2026-08-12,2,default setting,4,5,0.142,0.42,0.03,1,0,0,0
+x-ai/grok-4.7,x-ai,US,figure script,OpenRouter listing,2026-09-21,2,default setting,4,5,0.08,0.35,0.0106,1,0,0,0
+xiaomi/mimo-v2.5,xiaomi,China,figure script,OpenRouter listing,2026-04-22,0.4,median of conditions,2,10,0.091,0.278,0.022,0.9,0.1,0,0
+xiaomi/mimo-v2.5-pro,xiaomi,China,figure script,OpenRouter listing,2026-04-22,0.48,median of conditions,2,10,0.0587,0.201,0.01405,0.7,0.3,0,0
+xiaomi/mimo-v2.6-flash,xiaomi,China,figure script,OpenRouter listing,2026-09-21,0.14,median of conditions,2,10,0.09,0.295,0.016,0.9,0.1,0,0
+xiaomi/mimo-v2.6-pro,xiaomi,China,figure script,OpenRouter listing,2026-09-21,0.435,median of conditions,2,10,0.127,0.365,0.029,0.6,0.4,0,0
+xingchen-agi/xing4.0-29b-a4b:free,xingchen-agi,China,"added automatically (web search, high confidence; region_additions.csv)","free on OpenRouter, no paid version: set to 0 (floored at $0.001)",2026-10-16,0,default setting,2,4,0.0375,0.0875,0.0125,0.75,0.25,0,0
+z-ai/glm-4.5,z-ai,China,figure script,OpenRouter listing,2025-07-25,0.6,median of conditions,2,10,0.19,0.475,0.05,0.7,0.3,0,0
+z-ai/glm-4.5-air,z-ai,China,figure script,OpenRouter listing,2025-07-25,0.13,median of conditions,2,10,0.092,0.28,0.016,1,0,0,0
+z-ai/glm-4.5v,z-ai,China,figure script,OpenRouter listing,2025-08-11,0.6,median of conditions,2,10,0.103,0.268,0.029,1,0,0,0
+z-ai/glm-4.6,z-ai,China,figure script,OpenRouter listing,2025-09-30,0.5,median of conditions,2,10,0.158,0.405,0.035,0.9,0.1,0,0
+z-ai/glm-4.6v,z-ai,China,figure script,OpenRouter listing,2025-12-08,0.3,median of conditions,2,10,0.0671,0.201,0.00851,0.8,0.2,0,0
+z-ai/glm-4.7,z-ai,China,figure script,OpenRouter listing,2025-12-22,0.6,default setting,2,5,0.14,0.36,0.034,1,0,0,0
+z-ai/glm-4.7-flash,z-ai,China,figure script,OpenRouter listing,2026-01-19,0.0605,default setting,2,5,0.12,0.32,0.028,0.8,0.2,0,0
+z-ai/glm-5,z-ai,China,figure script,OpenRouter listing,2026-02-11,1,default setting,2,5,0.11,0.35,0.02,0.8,0.2,0,0
+z-ai/glm-5-turbo,z-ai,China,figure script,OpenRouter listing,2026-03-15,1.2,default setting,2,5,0.144,0.37,0.038,0.6,0.4,0,0
+z-ai/glm-5.1,z-ai,China,figure script,OpenRouter listing,2026-04-07,1.4,default setting,2,5,0.15,0.36,0.044,1,0,0,0
+z-ai/glm-5.2,z-ai,China,figure script,OpenRouter listing,2026-06-16,0.006,default setting,3,5,0.13,0.36,0.03,0.6,0.4,0,0
+z-ai/glm-5.3,z-ai,China,figure script,OpenRouter listing,2026-08-18,0.0699,default setting,3,5,0.134,0.4,0.016,1,0,0,0
+z-ai/glm-5.3-flash,z-ai,China,figure script,OpenRouter listing,2026-08-26,0.15,default setting,3,5,0.09,0.34,0.012,0.6,0.4,0,0
+z-ai/glm-5v-turbo,z-ai,China,figure script,OpenRouter listing,2026-04-01,1.2,default setting,2,5,0.072,0.204,0.0176,1,0,0,0

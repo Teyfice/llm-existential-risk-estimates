@@ -1,0 +1,2 @@
+term,precision_ratio,ci_low,ci_high,p,n_models,pd_hessian
+release_years (per year),2.42880234225419,1.83882823083877,3.2080651791215,4.0937017186129e-10,241,TRUE

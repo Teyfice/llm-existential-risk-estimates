@@ -1,0 +1,22 @@
+{
+  "go": 4,
+  "updated_at": "2026-11-06T12:07:21.077538+00:00",
+  "calls_total": 666,
+  "calls_finished": 666,
+  "calls_running": 0,
+  "budget_usd": 60.0,
+  "spent_usd": 7.4333,
+  "earlier_sessions_usd": 0,
+  "confirmed_this_session_usd": 7.4333,
+  "openrouter_usage_this_session_usd": 7.4319,
+  "reserved_usd": 0.0,
+  "outcomes": {
+    "valid": 641,
+    "invalid_json": 8,
+    "technical_failure": 15,
+    "schema_violation": 2
+  },
+  "stop_reason": null,
+  "fatal_reason": null,
+  "elapsed_s": 792.3
+}

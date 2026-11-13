@@ -1,0 +1,15 @@
+# never commit the OpenRouter API key
+secret_key_openrouter.txt
+*secret*
+.env
+# AI researcher data: download from https://osf.io/vmdny (see README)
+2023 ESPAI*.csv
+# Python / R / LaTeX build files
+__pycache__/
+*.pyc
+.Rhistory
+*.aux
+*.bbl
+*.blg
+*.log
+*.out

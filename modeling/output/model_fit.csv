@@ -1,0 +1,15 @@
+model,n_cells,n_models,n_developers,logLik,AIC,converged,pd_hessian
+M1 estimate,649,241,33,1369.52026517739,-2707.04053035477,TRUE,TRUE
+M2 upper bound,649,241,33,838.066586873109,-1644.13317374622,TRUE,TRUE
+M3 lower bound,649,241,33,2144.6973047487,-4257.39460949739,TRUE,TRUE
+M4 rogue AI (binomial),649,241,33,-584.762396074989,1199.52479214998,TRUE,TRUE
+"A1 estimate (within/between, linear)",649,241,33,1365.78090469998,-2707.56180939995,TRUE,TRUE
+"A1 upper bound (within/between, linear)",649,241,33,836.96185820626,-1649.92371641252,TRUE,TRUE
+"A1 lower bound (within/between, linear)",649,241,33,2139.63653998476,-4255.27307996952,TRUE,TRUE
+"A1 rogue AI (binomial, within/between, linear)",649,241,33,-594.716859628502,1211.433719257,TRUE,TRUE
+A2 estimate (within-model categories),649,241,33,1369.60746860729,-2705.21493721458,TRUE,TRUE
+A2 upper bound (within-model categories),649,241,33,838.070173920607,-1642.14034784121,TRUE,TRUE
+A2 lower bound (within-model categories),649,241,33,2146.52948891259,-4259.05897782517,TRUE,TRUE
+A3 estimate (reasoning tokens instead of level),649,241,33,1366.50895578969,-2711.01791157938,TRUE,TRUE
+A3 upper bound (reasoning tokens instead of level),649,241,33,832.706139822853,-1643.41227964571,TRUE,TRUE
+A3 lower bound (reasoning tokens instead of level),649,241,33,2145.4749423308,-4268.94988466159,TRUE,TRUE

@@ -1,0 +1,3 @@
+developer,region,confidence,evidence,source,added
+prism-ml,US,high,"PrismML is a U.S. company based in Pasadena, California (press releases datelined Pasadena; CEO Babak Hassibi, Caltech)",https://prismml.com/news/prismml-introduces-ternary-bonsai-model-family,by web search on 2026-11-07; checked by the author on 2026-11-10
+xingchen-agi,China,high,"Xing4.0 is from China Telecom's AI research institute (TeleAI), per the OpenRouter model description and LLM Reference",https://www.llmreference.com/model-family/xing4,by web search on 2026-11-07; checked by the author on 2026-11-10

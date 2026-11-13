@@ -1,0 +1,12 @@
+model,test,statistic,df,p
+M1 estimate,"region (China, Other = US), Wald",5.34755781654082,2,0.0689910213461247
+M2 upper bound,"region (China, Other = US), Wald",10.4409432131377,2,0.00540477959574
+M3 lower bound,"region (China, Other = US), Wald",3.63106700278616,2,0.162751057308871
+M4 rogue AI (binomial),"region (China, Other = US), Wald",0.348944668526123,2,0.839900090362741
+M1 estimate,"reasoning level (6 contrasts with medium/on), Wald",7.84232932642614,6,0.249883791048181
+M2 upper bound,"reasoning level (6 contrasts with medium/on), Wald",37.0886239149532,6,1.69220857960189e-06
+M3 lower bound,"reasoning level (6 contrasts with medium/on), Wald",39.1589473448269,6,6.66201184928153e-07
+M4 rogue AI (binomial),"reasoning level (6 contrasts with medium/on), Wald",36.7860710486156,6,1.93829996009444e-06
+"A1 estimate (within/between, linear) vs. A2 estimate (within-model categories)","within-model reasoning level: linear vs. categorical, LR",7.65312781462626,5,0.176417053730053
+"A1 upper bound (within/between, linear) vs. A2 upper bound (within-model categories)","within-model reasoning level: linear vs. categorical, LR",2.21663142869579,5,0.818430060914749
+"A1 lower bound (within/between, linear) vs. A2 lower bound (within-model categories)","within-model reasoning level: linear vs. categorical, LR",13.7858978556551,5,0.0170281697333633
